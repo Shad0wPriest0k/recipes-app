@@ -1,0 +1,5 @@
+.env
+*.tar
+*.zip
+.idea/
+.vscode/
